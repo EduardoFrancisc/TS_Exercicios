@@ -1,4 +1,4 @@
-# TS-Exercicios
+# TS-exercícios
  Exercicios de TypeScript
 
  Códigos de Typescript na pasta src.
